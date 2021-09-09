@@ -53,8 +53,6 @@ public class SingletonExample{
         singleton instance1 = singleton.getInstance();
         system.out.println(instance1);
 
-        singleton instance2 = singleton.getInstance();
-        system.out.println(instance2);
 
 
     }
